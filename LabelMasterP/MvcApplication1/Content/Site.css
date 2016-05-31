@@ -56,8 +56,8 @@ mark {
 .float-right {
     float: right;
 	display:block;
-	margin-bottom:auto;
-	margin-top:auto;
+	margin-bottom:1.5em;
+	margin-top:3em;
 }
 
 .clear-fix:after {
@@ -675,6 +675,8 @@ tr.pager td {
     header .float-left,
     header .float-right {
         float: none;
+		margin-top:auto;
+		margin-bottom:auto;
     }
 
     /* logo */
