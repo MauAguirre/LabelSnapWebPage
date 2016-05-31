@@ -233,7 +233,11 @@ ul#menu {
 
 		div#Options{
 	background-color: black;
+	max-width:50% ;
 }
+		div#Options img{
+			max-width:100%;
+		}
 /* page titles */
 hgroup.title {
     margin-bottom: 10px;
