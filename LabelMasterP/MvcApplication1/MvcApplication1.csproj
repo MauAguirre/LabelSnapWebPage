@@ -276,11 +276,13 @@
     <EmbeddedResource Include="Images\Download.png" />
     <Content Include="Images\Buy.png" />
     <Content Include="Images\Feature1.png" />
+    <Content Include="Images\Feature2.PNG" />
     <Content Include="Images\Picture1.png" />
     <Content Include="Images\Picture2.png" />
     <Content Include="Images\Picture3.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\DispNoDisp.js" />
     <Content Include="Scripts\jquery-1.8.2.js" />
     <Content Include="Scripts\jquery-1.8.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />

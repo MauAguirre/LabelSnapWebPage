@@ -166,6 +166,8 @@ header div{
 	max-width:100%;
 }
 
+
+
 /* login
 ----------------------------------------------------------*/
 #login {
@@ -307,6 +309,30 @@ div#Options2 a{
 
 img#Divisor{
 	width:100%;
+}
+
+div#Features{
+	max-width:70%;
+	float: left;
+	margin-top:1.5em;
+}
+
+img#Feature2{
+	display:none;
+}
+
+div#FeatureList{
+	max-width:30%;
+	float:right;
+	margin-top:1.5em;
+}
+
+p#Feature1{
+	float:right;
+}
+
+p#Feature2{
+	float:right;
 }
 
 /* page titles */
@@ -837,3 +863,4 @@ tr.pager td {
             margin: 0;
         }
 }
+
