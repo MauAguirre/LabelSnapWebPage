@@ -282,6 +282,10 @@ div#Options2 a{
 	margin-right:auto;
 }
 
+img#Divisor{
+	width:100%;
+}
+
 /* page titles */
 hgroup.title {
     margin-bottom: 10px;
