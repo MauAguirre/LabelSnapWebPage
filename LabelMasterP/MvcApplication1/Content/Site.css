@@ -230,6 +230,9 @@ ul#menu {
             font-size: 1.1em;
         }
 
+		div#Options{
+	background-color: black;
+}
 /* page titles */
 hgroup.title {
     margin-bottom: 10px;
@@ -752,8 +755,4 @@ tr.pager td {
         footer p {
             margin: 0;
         }
-}
-
-div#Options{
-	background-color: black;
 }
