@@ -237,6 +237,7 @@ div#Options{
 	max-width:50% ;
 	float: left;
 	max-height:100%;
+	margin-bottom:2.5em;
 }
 div#Options img{
 	display:block;
@@ -259,6 +260,7 @@ div#Options2{
 	max-width:50%;
 	float:left;
 	max-height:100%;
+	margin-bottom:2.5em;
 }
 
 div#Options2 p{
