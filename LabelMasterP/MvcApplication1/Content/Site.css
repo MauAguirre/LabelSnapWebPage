@@ -165,7 +165,7 @@ header div{
 /* login
 ----------------------------------------------------------*/
 #login {
-    display: block;
+    display: none;
     font-size: .85em;
     margin: 0 0 10px;
     text-align: right;
@@ -664,13 +664,13 @@ tr.pager td {
 /********************
 *   Mobile Styles   *
 ********************/
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 676px) {
 
     /* header
     ----------------------------------------------------------*/
     header .float-left,
     header .float-right {
-        /*float: none;*/
+        float: none;
     }
 
     /* logo */
