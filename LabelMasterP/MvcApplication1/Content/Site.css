@@ -44,10 +44,16 @@ mark {
 
 .float-left {
     float: left;
+	display:block;
+	margin-bottom:auto;
+	margin-top:1em;
 }
 
 .float-right {
     float: right;
+	display:block;
+	margin-bottom:auto;
+	margin-top:auto;
 }
 
 .clear-fix:after {
@@ -92,6 +98,14 @@ h5, h6 {
 
 /* main layout
 ----------------------------------------------------------*/
+
+header a{
+	max-height:100%;
+}
+
+header img{
+	max-height:100%;
+}
 .content-wrapper {
     margin: 0 auto;
     max-width: 960px;
@@ -651,7 +665,7 @@ tr.pager td {
     ----------------------------------------------------------*/
     header .float-left,
     header .float-right {
-        float: none;
+        /*float: none;*/
     }
 
     /* logo */
