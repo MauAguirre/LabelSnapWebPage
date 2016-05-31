@@ -90,7 +90,6 @@ h5, h6 {
         text-decoration: none;
     }
 
-
 /* main layout
 ----------------------------------------------------------*/
 .content-wrapper {
@@ -753,4 +752,8 @@ tr.pager td {
         footer p {
             margin: 0;
         }
+}
+
+div#Options{
+	background-color: black;
 }
