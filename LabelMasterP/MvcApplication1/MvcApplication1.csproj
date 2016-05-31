@@ -275,6 +275,7 @@
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
     <EmbeddedResource Include="Images\Download.png" />
     <Content Include="Images\Buy.png" />
+    <Content Include="Images\Picture1.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.8.2.js" />
