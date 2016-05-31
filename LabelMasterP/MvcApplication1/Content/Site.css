@@ -231,24 +231,54 @@ ul#menu {
             font-size: 1.1em;
         }
 
-		div#Options{
+/* Index custom
+	-----------------------------------------------*/
+div#Options{
 	max-width:50% ;
 	float: left;
 	max-height:100%;
 }
-		div#Options img{
-			max-width:100%;
-		}
+div#Options img{
+	display:block;
+	max-width:90%;
+	max-height:90%;
+	margin-left:auto;
+	margin-right:auto;
+}
+div#Options a{
+	padding:0px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+div#Options p{
+	text-align:center;
+}
 
-		div#Options2{
-			max-width:50%;
-			float:left;
-			max-height:100%;
-		}
+div#Options2{
+	max-width:50%;
+	float:left;
+	max-height:100%;
+}
 
-		div#Options2 img{
-			max-width: 100%;
-		}
+div#Options2 p{
+	text-align:center;
+}
+
+div#Options2 img{
+	display:block;
+	max-width: 90%;
+	max-height: 90%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div#Options2 a{
+	padding:0px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
 
 /* page titles */
 hgroup.title {
